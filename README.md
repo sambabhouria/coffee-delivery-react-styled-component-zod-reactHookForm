@@ -15,7 +15,6 @@ This is a project made entirely in React for an e-commerce coffee sales site to 
 
 # `screenShot`
 
-<img src="./0.png">
 <img src="./1.png">
 <img src="./2.png">
 <img src="./3.png">
